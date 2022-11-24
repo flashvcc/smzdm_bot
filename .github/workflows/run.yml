@@ -30,7 +30,7 @@ jobs:
 
       - name: Working
         env:
-          SMZDM_COOKIE: ${{ secrets.SMZDM_COOKIE }}
+          SMZDM_COOKIE: ${{ secrets.__ckguid=bJ36xV7li6y1t22tWpLku22; device_id=213070643316512367840156309d071be29b1be1d2c26044eadaac544a; r_sort_type=score; __jsluid_s=d37b8bd680cb5e491176f8a14aee7682; smzdm_user_source=3191064491F7C35E79749AAEBED68C8C; homepage_sug=c; sess=BA-0fmz/LSHZGaulm5OS6x+/kjwUfiTStkGsmSHQeXDHWN0SDF24mOrdiVGTaTWs1FB5zaCj8nXLUm1eWX8QqT/841pciemCZOR1tK7wScQAucKzHxiwagGtD/I; user=user:8910965589|8910965589; smzdm_id=8910965589; Hm_lvt_9b7ac3d38f30fe89ff0b8a0546904e58=1666845001,1667822839; Hm_lpvt_9b7ac3d38f30fe89ff0b8a0546904e58=1669252945; sensorsdata2015jssdkcross={"distinct_id":"8910965589","first_id":"1807561c71df7d-0e0cf313ed90c6-7b422f23-2073600-1807561c71eee6","props":{"$latest_traffic_source_type":"直接流量","$latest_search_keyword":"未取到值_直接打开","$latest_referrer":"","$latest_landing_page":"https://www.smzdm.com/"},"$device_id":"1807561c71df7d-0e0cf313ed90c6-7b422f23-2073600-1807561c71eee6"}; _zdmA.uid=ZDMA.i1UCMQqyP.1669253070.2419200 }}
           PUSH_PLUS_TOKEN: ${{ secrets.PUSH_PLUS_TOKEN }}
           SC_KEY: ${{ secrets.SC_KEY }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
